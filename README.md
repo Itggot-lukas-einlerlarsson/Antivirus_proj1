@@ -5,7 +5,7 @@ The program first traverses a given directory.
 It then reads the signatures in the .db file,
 the signatures in the .db file is in hexadecimal form. 
 The program then reads a small portion of each file(top of file), converts the strings of each file read into hexadecimalform 
-and then checking if the signatures match any of those in the database
+and then checks if the signatures match any of those in the database
 
 ex: test.pdf file:
 %PDF-1.5
