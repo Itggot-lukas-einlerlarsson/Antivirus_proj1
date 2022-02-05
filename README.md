@@ -20,5 +20,5 @@ Becomes in hex:
 
 To run on linux:
 go to directory you have the program files
-use make all
-then write: make run or ./a.out directory_you_choose
+use "make all", 
+then write: "make run" or "./a.out directory_you_choose"
