@@ -1,5 +1,5 @@
 # Antivirus_proj
-A simple antivirus program i did early last year, one of my first projects i did in C++. 
+A simple antivirus program i did early last year(jan, 2021), one of my first projects i did in C++. 
 
 The program first traverses a given directory.
 It then reads the signatures in the .db file,
