@@ -3,7 +3,7 @@
 int main(int argc, char const *argv[])
 {
   //checking if too many arguments are used when executing program:
-  if (argc > 2)
+  if (argc != 2)
   {
     std::cerr << "One argument is enough. example: ./programname /your/input/directory/" << '\n' << "'make run' should also work." << std::endl;
     exit(1);
